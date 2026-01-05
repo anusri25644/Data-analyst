@@ -1,2 +1,2 @@
-# Data-analyst
+# Data-Analyst
 PoweBi | Excel
