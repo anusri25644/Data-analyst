@@ -1,2 +1,2 @@
 # Data-analyst
-PoweBii | Excel
+PoweBi | Excel
